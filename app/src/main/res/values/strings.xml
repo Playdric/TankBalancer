@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tank Balancer</string>
+    <string name="screen_title_balancer">Tank Balancer</string>
+    <string name="screen_title_aircraft">My Aircraft</string>
+    <string name="balancer_switch_to_right">Switch to RIGHT tank</string>
+    <string name="balancer_switch_to_left">Switch to LEFT tank</string>
+    <string name="balancer_consumption">Consumption :</string>
+    <string name="balancer_eta">"Estimated Time of Arrival : "</string>
+</resources>
